@@ -1,2 +1,2 @@
 # Newgit
-Test git.
+Test git.Git
